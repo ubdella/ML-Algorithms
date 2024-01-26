@@ -1,2 +1,2 @@
 # ML-Portfolio
- Machine Learning and AI Projectsw
+ Machine Learning and AI Projects
