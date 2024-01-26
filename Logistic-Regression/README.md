@@ -1,4 +1,4 @@
-# Logistic Regression Library
+# Logistic Regression
 
 This library provides an implementation of logistic regression, a machine learning algorithm used for binary classification problems. It includes functions for calculating the objective function, gradient, and performing gradient descent, stochastic gradient descent (SGD), and mini-batch gradient descent (MBGD).
 
